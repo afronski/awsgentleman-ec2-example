@@ -1,6 +1,6 @@
 #!/bin/bash
 yum update -y
-yum install java
+yum install java -y
 
 aws s3 cp s3://awsgentleman-jar-files/awsgentleman-ec2-example.jar /home/ec2-user/awsgentleman-ec2-example.jar
 
