@@ -1,4 +1,4 @@
-# Amazon EC2 example for [AWS Gentleman](https://awsgentleman.com/category/aws-cdk/) live stream
+# Amazon EC2 example for [AWS Gentleman live stream](https://awsgentleman.com/live)
 
 ## What is it?
 
