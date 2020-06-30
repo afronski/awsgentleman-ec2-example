@@ -9,7 +9,7 @@ Environment=RDS_DB_NAME=journaler_api
 Environment=RDS_USERNAME=root
 Environment=RDS_PASSWORD=
 User=ec2-user
-ExecStart=java -jar /home/ec2-user/awsgentleman-ec2-example.jar
+ExecStart=java -jar /home/ec2-user/service-ec2-example.jar
 SuccessExitStatus=143
 
 [Install]
